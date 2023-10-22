@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956684889108",
+    "project_id": "istanbul-towel-stock-4616d",
+    "storage_bucket": "istanbul-towel-stock-4616d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956684889108:android:943a6f6c98fb6ed1a14b01",
+        "android_client_info": {
+          "package_name": "com.example.istanbul_towel_stock_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhMsGTHNfVmnxZ5xU6vyIKLB1H6Puw6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
